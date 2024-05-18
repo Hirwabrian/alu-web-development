@@ -9,6 +9,13 @@ main{
     flex: auto;
 }
 
+.logo{
+    max-width: 100%;
+    max-height: 400px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
 article{
     flex: 2;
     overflow-y: auto;
